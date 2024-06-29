@@ -1,0 +1,5 @@
+Create a class called "Animal" with properties such as "name", "age", and "species". Create a subclass called "Dog" that inherits from the Animal class and adds properties such as "breed" and "color".
+Create a class called "Vehicle" with properties such as "make", "model", and "year". Create a subclass called "Car" that inherits from the Vehicle class and adds properties such as "color" and "numDoors".
+Create a class called "Shape" with properties such as "numSides" and "area". Create a subclass called "Rectangle" that inherits from the Shape class and adds properties such as "length" and "width".
+Create a class called "Person" with properties such as "name", "age", and "address". Create a subclass called "Student" that inherits from the Person class and adds properties such as "grade" and "school".
+Create a class called "Animal" with properties such as "name", "age", and "species". Create a subclass called "Cat" that inherits from the Animal class and adds properties such as "color" and "numLives".

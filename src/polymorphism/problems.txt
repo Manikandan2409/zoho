@@ -1,0 +1,3 @@
+Create a class called "Shape" with a method called "draw" that prints out "Drawing a shape". Create subclasses such as "Rectangle" and "Circle" that override the draw method to print out "Drawing a rectangle" and "Drawing a circle" respectively.
+Create a class called "Animal" with a method called "speak" that prints out a message such as "The animal says roar". Create subclasses such as "Dog" and "Cat" that override the speak method to print out "The dog says woof" and "The cat says meow" respectively.
+Create an interface called "Playable" with a method called "play". Create classes such as "Guitar" and "Piano" that implement the "Playable" interface.

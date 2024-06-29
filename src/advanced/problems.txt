@@ -1,0 +1,12 @@
+Implement an abstract class in Java with at least one abstract method. Create a concrete class that extends the abstract class and implement the abstract method. Instantiate the concrete class and invoke its method.
+Write a Java program that reads a file using BufferedReader and stores the data into an ArrayList. Use Iterator to traverse the list and display the content.
+Create a HashMap in Java that stores a set of words as keys and their frequencies a values. Implement a method that takes a string as input, splits it into words, and updates the HashMap with their frequencies. Test the method with different inputs.
+Create a Java program that demonstrates the use of ArrayList and LinkedList by adding, removing, and accessing elements in both collections. Compare their performance for large data sets.
+Implement a thread in Java that prints the numbers from 1 to 10 with a delay of 1 second between each number. Use the sleep() method to achieve the delay.
+Implement a generic class in Java that stores a collection of elements of any type. Use the class to store strings, integers, and custom objects. Demonstrate the use of wildcard and bounded type parameters.
+Create a Java program that reads a CSV file using FileReader and stores the data into a HashSet. Implement a method that takes a string as input and searches the HashSet for matching entries. Display the results.
+Implement a PriorityQueue in Java that stores a set of tasks with priorities. Use a custom Comparator to define the order of tasks. Demonstrate the use of add(), remove(), and peek() methods.
+Write a Java program that reads a file using FileInputStream and encrypts its content using XOR encryption. Save the encrypted data to a new file using FileOutputStream. Implement a method that decrypts the encrypted data.
+Create a Java program that generates a random sequence of numbers and sorts them using Bubble Sort, Selection Sort, Insertion Sort, and Quick Sort algorithms. Compare their performance for large data sets.
+Implement a recursive function in Java that calculates the n-th Fibonacci number. Test the function with different values of n.
+Create a multithreaded Java program that performs a set of computations on a large dataset. Use parallel processing to speed up the computations and compare the performance with the single-threaded version.

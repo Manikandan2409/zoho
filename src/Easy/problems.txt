@@ -1,0 +1,5 @@
+Create a method called "calculateAverage" that takes an array of integers as an argument and returns the average of the numbers in the array.
+Create a method called "reverseString" that takes a string as an argument and returns the reverse of the string.
+Create a method called "isPalindrome" that takes a string as an argument and returns true if the string is a palindrome (reads the same backward as forward) and false otherwise.
+Create a method called "findMax" that takes an array of integers as an argument and returns the largest number in the array.
+Create a method called "calculateFactorial" that takes an integer as an argument and returns the factorial of the number.

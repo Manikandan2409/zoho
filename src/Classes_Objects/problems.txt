@@ -1,0 +1,5 @@
+Create a class called "Student" with properties such as "name", "age", and "grade". Implement the necessary getter and setter methods for each property.
+Create a class called "BankAccount" with properties such as "balance", "accountNumber", and "accountType". Implement the necessary getter and setter methods for each property.
+Create a class called "Rectangle" with properties such as "length" and "width". Implement methods such as "getArea" and "getPerimeter" that calculate and return the area and perimeter of the rectangle.
+Create a class called "Employee" with properties such as "name", "salary", and "hireDate". Implement the necessary getter and setter methods for each property.
+Create a class called "Book" with properties such as "title", "author", and "publisher". Implement the necessary getter and setter methods for each property.

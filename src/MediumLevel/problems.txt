@@ -1,0 +1,10 @@
+Write a Java program that demonstrates the use of inheritance by creating a parent class and a child class that inherits from it. Instantiate objects of both classes and invoke their methods
+Create a program that simulates a game of tic-tac-toe between two players. The program should display the game board and allow the players to make moves until one of them wins or the game ends in a tie.
+Write a program that reads a text file and counts the number of occurrences of each word in the file. The program should display the results in alphabetical order.
+Implement a stack data structure in Java using an array or a linked list. The stack should have push, pop, and peek methods.
+Write a program that reads a CSV file line by line and and stores the data into a HashMap with column name as a key and entries as value. 
+Implement a binary search algorithm in Java to search for an element in an array.
+Implement a binary tree data structure in Java using either an array or a linked list. The tree should have methods for inserting, deleting, and searching for nodes.
+Implement a graph data structure in Java using either an adjacency matrix or an adjacency list. The graph should have methods for adding and removing vertices and edges, and for traversing the graph.
+Create a program that uses recursion to solve a complex problem, such as the Tower of Hanoi or the Fibonacci sequence.
+Implement a hash table data structure in Java using either an array or a linked list. The hash table should have methods for inserting, deleting, and searching for keys.
