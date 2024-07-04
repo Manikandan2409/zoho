@@ -1,0 +1,21 @@
+1->  Write a program to find the no of words and lines in a text file.
+2->  Write a program that reads a text file and counts the number of occurrences of each word in the file. The program should display the results in alphabetical order.
+3->  Implement a stack data structure in Java using an array. The stack should have push, pop, and peek methods.
+4->  Write a program to get user input using IO classes.
+5->  Write a program that reads a CSV file line by line and stores the data into a HashMap with column name as a key and entries as value.
+6->  Implement a binary tree data structure in Java using either an array or a linked list. The tree should have methods for inserting, deleting, and searching for nodes.
+7->  Create a custom exception and use it in a program.
+8->  Implement a graph data structure in Java using either an adjacency matrix or an adjacency list. The graph should have methods for adding and removing vertices and edges, and for traversing the graph.
+9->  Implement a hash table data structure in Java using either an array or a linked list. The hash table should have methods for inserting, deleting, and searching for keys.
+10->  Implement a stack data structure in Java using a linked list. The stack should have push, pop, and peek methods.
+11->  Write a Java program to create a new directory and copy all the files from an existing directory to the new directory.
+12->  Create a Java program that demonstrates the use of ArrayList and LinkedList by adding, removing, and accessing elements in both collections. Compare their performance for large data sets.
+13->  Implement a generic class in Java that stores a collection of elements of any type. Use the class to store strings, integers, and custom objects. Demonstrate the use of wildcard and bounded type parameters.
+14->  Create a Java program that reads a CSV file using FileReader and stores the data into a HashSet. Implement a method that takes a string as input and searches the HashSet for matching entries. Display the results.
+
+15->  Implement a PriorityQueue in Java that stores a set of tasks with priorities. Use a custom Comparator to define the order of tasks. Demonstrate the use of add(), remove(), and peek(->  methods.
+16->  Write a Java program that reads a file using FileInputStream and encrypts its content using XOR encryption. Save the encrypted data to a new file using FileOutputStream. Implement a method that decrypts the encrypted data.
+17->  Implement a double linked list data structure with type safety . It should have methods to add, remove, print, get and sort elements in the list.
+18->  Write a Java program that reads a file using BufferedReader and stores the data into an ArrayList. Use Iterator to traverse the list and display the content.
+19->  Create a class that is serialisable and write a program to serialise and deserialise the object.
+20->  Create a HashMap in Java that stores a set of words as keys and their frequencies as values. Implement a method that takes a string as input, splits it into words, and updates the HashMap with their frequencies. Test the method with different inputs.
